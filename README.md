@@ -7,4 +7,4 @@ tkinter, pytesseract, pillow
 
 для того чтобы скрипт работал, так же необходимо установить Tesseract - OCR 
 https://digi.bib.uni-mannheim.de/tesseract/
-просто скачайте саую свежую версию по ссылке
+просто скачайте самую свежую версию по ссылке
